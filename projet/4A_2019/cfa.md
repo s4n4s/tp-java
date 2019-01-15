@@ -2,8 +2,6 @@
 
 * (4) https://github.com/CyrilMlb/supermarket-receipt
   * GOMEZ Robin, HARSCOUET DE KERAVEL Korentin, LO CASALE Lorenzo, MALHERBE Cyril
-* (4) https://github.com/gabrielmdrd/ArchitectureLogicielle
-  * Mohand ABDELOUHAB, Gabriel MANDRAUD, Mouhamed OUMAROU GARBA, Thomas MORDOH
 * (4) https://github.com/Faivrem/supermarket-receipt
   * FAIVRE Maxime, CARLU Ludovic, LE BORGNE Kévin (Lebnet), TURRATA Augustin (Gustutu)
 * (3) https://github.com/Obfuskey/supermarket-receipt
