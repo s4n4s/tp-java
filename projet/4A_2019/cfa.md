@@ -9,4 +9,4 @@
 * (3) https://github.com/neech/Architecture-logiciel-2019-supermarket-receipt
   * GAU Julia (Juyya), LOUBER Allan (neech), NESARATNAM Kantharuban (kantNs)
 * (4) https://github.com/gabrielmdrd/supermarket-receipt
-  * Mohand ABDELOUHAB, Gabriel MANDRAUD, Mouhamed OUMAROU GARBA, Thomas MORDOH
+  * Mohand ABDELOUHAB (s4n4s), Gabriel MANDRAUD (gabrielmdrd), Mouhamed OUMAROU GARBA (mouhamed-o), Thomas MORDOH (mordoht)
